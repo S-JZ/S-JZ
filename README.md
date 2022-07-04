@@ -1,9 +1,12 @@
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" align="right" width="450" height="300"/>
+<div id="header" align="right">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" align="right" width="450" height="350"/>
+</div>
 
 ## <p align=center> Hi, I am Sristi!
 
 - 🍀 **About:** I am a Computer Science student with an interest in Machine Learning and Artificial Intelligence. I love tinkering and coming up with technical solutions to the problems around me.
 - 🤝**You can reach me on:**
+
   <a href="https://www.linkedin.com/in/sristi-4a680b207/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
