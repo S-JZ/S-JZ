@@ -1,9 +1,9 @@
-## <p align=center> Hi👋 I am Sristi!
-<div id="header" align="center">
-  <img src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"/>
-</div>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" align="right" width="450" height="300"/>
 
-<div id="badges" align='center'>
+## <p align=center> Hi, I am Sristi!
+
+- 🍀 **About:** I am a Computer Science student with an interest in Machine Learning and Artificial Intelligence. I love tinkering and coming up with technical solutions to the problems around me.
+- 🤝**You can reach me on:**
   <a href="https://www.linkedin.com/in/sristi-4a680b207/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,15 +13,19 @@
   <a href="https://twitter.com/jazyignis">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-
-<div id="body" align="center">
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=S-JZ&theme=dark&background=000000)](https://git.io/streak-stats)
+- 😄 **Pronouns:** _she/her_
+- ⚡ **Fun fact:** I know the first thirty and counting digits of PI :)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-JZ&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+## <p align=center> My GitHub Health Points
+<div id="body" align="center">  
+  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S-JZ&show_icons=true&theme=vision-friendly-dark&hide_border=true&&count_private=true&include_all_commits=true" />
-
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-JZ&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=S-JZ&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
