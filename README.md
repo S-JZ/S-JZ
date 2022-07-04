@@ -22,7 +22,7 @@
 
 
 - 😄 **Pronouns:** _she/her_
-- ⚡ **Fun fact:** I know the first thirty and counting digits of PI :)
+- ⚡ **Fun fact:** When I am not working, you'll find me memorizing the digits of PI, _(30 and counting till now)_.:bookmark_tabs:
 </div>
 
 
