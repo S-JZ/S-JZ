@@ -6,8 +6,8 @@
 
 <div id="body" align="left">
 
-- 🍀 **About:** I am a Computer Science student with an interest in Machine Learning and Artificial Intelligence. 
-I love tinkering and coming up with technical solutions to the problems around me.
+- 🍀 **About:** I am a Computer Science student with an interest in Machine Learning and Artificial Intelligence. _I love tinkering and coming up with technical solutions to the problems around me._
+
 - 🤝**You can reach me on:**
 
   <a href="https://www.linkedin.com/in/sristi-4a680b207/">
